@@ -1,3 +1,5 @@
+# github.com/conceptslearningmachine\
+
 # read-installed
 
 Read all the installed packages in a folder, and return a tree
